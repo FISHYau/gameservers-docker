@@ -5,7 +5,7 @@ Base CSGO start script which supports these environmetn variables:
 * `SERVER_TOKEN` - GSLT
 * `LAN` - sv\_lan, 1 or 0
 * `GAME_TYPE` - 1 or 0
-* `GAME_MODE` - 1 or 0
+* `GAME_MODE` - 2, 1 or 0
 * `MAP` - name of map to start
 * `SV_PASSWORD` - password to join server
 * `RCON_PASSWORD` - rcon password
