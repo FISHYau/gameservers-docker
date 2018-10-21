@@ -7,7 +7,7 @@ fi
 
 [[ $LAN -ge 1 ]] && LAN="1" || LAN="0"
 [[ $GAME_TYPE -ge 1 ]] && GAME_TYPE="1" || GAME_TYPE="0"
-[[ $GAME_MODE -ge 1 ]] && GAME_MODE="1" || GAME_MODE="0"
+[[ $GAME_MODE -ge 1 ]] && GAME_MODE="2" || GAME_MODE="1" || GAME_MODE="0"
 
 
 # Command line
